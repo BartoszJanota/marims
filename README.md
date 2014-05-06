@@ -19,4 +19,10 @@ In partial fulfilment of the requierement for the Engineer's degree in Computer 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan Resiak (resiak@student.agh.edu.pl)
 
 ----  
-Please take a while and explore our repository by visiting project's [wiki](https://github.com/BartoszJanota/marims/wiki) site.
+
+Now you are watching our main repository, to get more code and details please visit:
+* [Android library repository](https://github.com/BartoszJanota/marims-android-lib)
+* [Backend repository](https://github.com/BartoszJanota/marims-backend)
+* [Frontend repository](https://github.com/BartoszJanota/marims-frontend)
+
+Additionaly, please take a while and explore our main repository by visiting project's [wiki](https://github.com/BartoszJanota/marims/wiki) site.

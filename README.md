@@ -21,7 +21,7 @@ In partial fulfilment of the requierement for the Engineer's degree in Computer 
 ----  
 
 Now you are watching our main repository, to get more code and details please visit:
-* [Android library repository](https://github.com/BartoszJanota/marims-android-lib)
+* [Android library repository](https://github.com/BartoszJanota/marims-android)
 * [Backend repository](https://github.com/BartoszJanota/marims-backend)
 * [Frontend repository](https://github.com/BartoszJanota/marims-frontend)
 
